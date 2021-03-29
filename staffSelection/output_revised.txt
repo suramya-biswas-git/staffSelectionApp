@@ -1,0 +1,5 @@
+
+testTotalCalculation=true
+testTotalCalculation=false
+testPercentageCalculation=true
+testPercentageCalculation=false
